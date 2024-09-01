@@ -4,7 +4,7 @@ layout: home
 
 ## Introduction
 
-![Mesilla Valley Radio Club Logo](/assets/logo.jpg "MVRC")
+![Mesilla Valley Radio Club Logo](/assets/logo.bmp "MVRC")
 
 Area amateur radio enthusiasts, organized as the Mesilla Valley Radio Club
 (MVRC) in 1949, enjoying every aspect of the hobby and providing educational
