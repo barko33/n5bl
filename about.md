@@ -20,7 +20,7 @@ number of committees. Elections are held annually to elect the officers and to
 replace retiring directors at their November General meeting to serve on a
 calendar year basis.
 
-The pesent officers of MVRC include a President (Pat Chambers, W6VJT), a Vice
+The present officers of MVRC include a President (Pat Chambers, W6VJT), a Vice
 President (Bruce Lasley, KI5GUG), a Secretary (Kyle Gesswein, KY2LE), and a
 Treasurer (Steve Barkes, W5RRX).
 
