@@ -31,36 +31,25 @@ Combs (KG5BVE).
 
 The Directors are responsible for selecting from the membership Managers to be
 responsibe for the
- 1) maintenance of the clubhouse and grounds;
- 2) arrange and conduct classes for people who want to receive licenses;
- 3) operation, maintenance, modifications, installation, frequency coordination, and landlord interfaces for all repeaters operated by the Club;
- 4) Field Day and other club bcontests, for coordinating communication for community events such as ARES, RACES etc. and for coordinating club support to public service organizations;
- 5) plan and implement such activities as: the Annual Ham Fest food service; the monthly business meeting refreshments; and similar activities;
- 6) the club's newsletter (Local Oscillator) , being responsible for obtaining articles, editing, typography, makeup and editing of the newsletter and its distribution to the membership via the reflector service;
- 7) the Information Technology (IT) including e-mail services and their lists (Reflector Service) including the equipment and software used for administration, logging, site security, networking, internet access, etc. on the club house computers.
+
+ 1. maintenance of the clubhouse and grounds;
+ 2. arrange and conduct classes for people who want to receive licenses;
+ 3. operation, maintenance, modifications, installation, frequency coordination, and landlord interfaces for all repeaters operated by the Club;
+ 4. Field Day and other club bcontests, for coordinating communication for community events such as ARES, RACES etc. and for coordinating club support to public service organizations;
+ 5. plan and implement such activities as: the Annual Ham Fest food service; the monthly business meeting refreshments; and similar activities;
+ 6. the club's newsletter (Local Oscillator) , being responsible for obtaining articles, editing, typography, makeup and editing of the newsletter and its distribution to the membership via the reflector service;
+ 7. the Information Technology (IT) including e-mail services and their lists (Reflector Service) including the equipment and software used for administration, logging, site security, networking, internet access, etc. on the club house computers.
 
 ## MVRC Mission
 
 The mission of the Mesilla Valley Radio Club is to fullfill the requirements
 legislated in the U.S. Code of Federal Regulations Title 47 Chapter I
-Subchapter D Part 97 § 97.1 Basis and Purpose which states:
+Subchapter D Part 97 § 97.1 Basis and Purpose which states: "The rules and
+regulations in this part are designed to provide an amateur radio service
+having a fundamental purpose as expressed in the following principles:"
 
-The rules and regulations in this part are designed to provide an amateur radio
-service having a fundamental purpose as expressed in the following principles:
-
-Recognition and enhancement of the value of the amateur service to the public
-as a voluntary noncommercial communication service, particularly with respect
-to providing emergency communications.
-
-Continuation and extension of the amateur's proven ability to contribute to the
-advancement of the radio art.
-
-Encouragement and improvement of the amateur service through rules which
-provide for advancing skills in both the communication and technical phases of
-the art.
-
-Expansion of the existing reservoir within the amateur radio service of trained
-operators, technicians, and electronics experts.
-
-Continuation and extension of the amateur's unique ability to enhance
-international goodwill.
+ - Recognition and enhancement of the value of the amateur service to the public as a voluntary noncommercial communication service, particularly with respect to providing emergency communications.
+ - Continuation and extension of the amateur's proven ability to contribute to the advancement of the radio art.
+ - Encouragement and improvement of the amateur service through rules which provide for advancing skills in both the communication and technical phases of the art.
+ - Expansion of the existing reservoir within the amateur radio service of trained operators, technicians, and electronics experts.
+ - Continuation and extension of the amateur's unique ability to enhance international goodwill.
