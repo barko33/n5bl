@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Calendar
-permalink: /calendar/
+permalink: /calendar
 calendar: true
 ---
 

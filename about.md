@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 ## Legal Structure
 
 The Mesilla Valley Radio Club is registered under Section 501(c)(3) of the U.S.
-Internal Revenue Service Code as a public charitable organization and assigned
-the EIN 85-0316968. MVRC is also registered with the New Mexico Secretary of
-State as a corporation with the business name Mesilla Valley Radio Club and
-files anual reports with their office.
+Internal Revenue Service Code as a public charitable organization.
+MVRC is also registered with the New Mexico Secretary of State as a corporation
+with the business name Mesilla Valley Radio Club and files anual reports with
+their office.
 
 ## Management Structure
 
