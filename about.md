@@ -20,25 +20,40 @@ number of committees. Elections are held annually to elect the officers and to
 replace retiring directors at their November General meeting to serve on a
 calendar year basis.
 
-The present officers of MVRC include a President (Pat Chambers, W6VJT), a Vice
-President (Bruce Lasley, KI5GUG), a Secretary (Kyle Gesswein, KY2LE), and a
-Treasurer (Steve Barkes, W5RRX).
+The Board of Directors of the Mesilla Valley Radio club includes:
 
-The Board of Directors consists of the MVRC Officers and the following MVRC
-members: Alex Burr, (K5XY), Emeritus David R. Hassall (WA5DJJ), Sven Breden
-(K5SHB), George Kopp (KD5OHA), Emeritus Furman Smith (KF5KHL), and Charles
-Combs (KG5BVE).
+    Officers:
+
+        President (Pat Chambers, W6VJT)
+        Vice President (Rick Green, AI5DE)
+        Secretary (Bill Gardner, KI5ZHI)
+        Treasurer (Steve Barkes, W5RRX).
+
+    Club Chairs:
+
+        Education:  Michael McGarry (KI5TPH)
+        Clubhouse: Gary Gail (WD8AJJ)
+        Repeater: Dave Hassall (WA5DJJ)
+        Communications:  George Kopp (KD5OHA)
+
+    Directors At Large:
+
+        Dottie Remenar (Kb%oad)
+        Rhett Harsh (KF5VMD)
+        Katie Nixon (KJ5BUA)
+        Glen Long (KC4KMY)
+        Jerry Gaber (KE6IBU)
 
 The Directors are responsible for selecting from the membership Managers to be
-responsibe for the
+responsible for the
 
  1. maintenance of the clubhouse and grounds;
  2. arrange and conduct classes for people who want to receive licenses;
  3. operation, maintenance, modifications, installation, frequency coordination, and landlord interfaces for all repeaters operated by the Club;
- 4. Field Day and other club bcontests, for coordinating communication for community events such as ARES, RACES etc. and for coordinating club support to public service organizations;
- 5. plan and implement such activities as: the Annual Ham Fest food service; the monthly business meeting refreshments; and similar activities;
+ 4. Field Day and other club contests
+ 5. coordinating communication for community events such as ARES, RACES and for coordinating club support to public service organizations;
+ 5. plan and implement such activities as: the annual club picnicood; the monthly business meeting refreshments; and similar activities;
  6. the club's newsletter (Local Oscillator) , being responsible for obtaining articles, editing, typography, makeup and editing of the newsletter and its distribution to the membership via the reflector service;
- 7. the Information Technology (IT) including e-mail services and their lists (Reflector Service) including the equipment and software used for administration, logging, site security, networking, internet access, etc. on the club house computers.
 
 ## MVRC Mission
 
